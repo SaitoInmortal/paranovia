@@ -12,6 +12,6 @@ btsi.addEventListener("click", function(e){
     alert("sabia que dirias que si");
 
     divModoSexo.style.display = "block";
-    const cancion = new Audio("img\\modo_hot.mp3");
-    cancion.play
+    const cancion = new Audio("img\\ringtones-most-romantic.mp3");
+    cancion.play();
 });
